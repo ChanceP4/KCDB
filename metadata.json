@@ -1,0 +1,16 @@
+{
+  "name": "King Charles Dog Bo$$",
+  "symbol": "KCDB",
+  "decimals": 9,
+  "description": "The official Solana token of the King Charles Dog Bo$$ empire.",
+  "image": "https://raw.githubusercontent.com/ChanceP4/KCDB/main/Untitled%20design.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ChanceP4/KCDB/main/Untitled%20design.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
+
